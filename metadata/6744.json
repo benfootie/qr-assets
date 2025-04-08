@@ -1,7 +1,7 @@
 {
     "collection_name": "Shiguma Pass",
     "description": "This is a Shiguma Mint Pass in the form of a scannable QR code with unique token ID",
-    "image": "https://github.com/benfootie/qr-assets/images/6744.png",
+    "image": "https://benfootie.github.io/qr-assets/images/6744.png",
     "attributes": [
         {
             "trait_type": "Token ID",
